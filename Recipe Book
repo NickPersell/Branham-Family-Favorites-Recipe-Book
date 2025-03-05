@@ -36,18 +36,21 @@
         .category-buttons {
             margin: 0 0 10px 0;
             text-align: center;
-            overflow-x: auto;
-            white-space: nowrap;
+            /* Removed overflow-x: auto and white-space: nowrap */
+            display: flex; /* Use flexbox for layout */
+            flex-wrap: wrap; /* Allow buttons to wrap into multiple rows */
+            justify-content: center; /* Center the buttons */
+            gap: 5px; /* Consistent spacing between buttons */
         }
         .category-buttons button {
-            padding: 8px 16px;
-            margin: 0 5px;
+            padding: 8px 16px; /* Keep original padding */
+            margin: 0; /* Remove margin since gap handles spacing */
             background-color: #4CAF50;
             color: white;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            white-space: nowrap;
+            white-space: nowrap; /* Keep text on one line */
         }
         .category-buttons button:hover {
             background-color: #45a049;
@@ -143,7 +146,9 @@
         </div>
     </div>
     <!-- Beginning of recipes -->
-   <div id="recipeList">
+    <div id="recipeList">
+        <!-- Add your 500 recipes here manually -->
+  <div id="recipeList">
         <div class="recipe">
             <h2 onclick="toggleRecipe(this)">Dried Beef Dip - <span class="author">Vicki Jiovenale</span></h2>
             <div class="recipe-content">
