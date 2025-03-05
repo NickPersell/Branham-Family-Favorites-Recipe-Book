@@ -7222,7 +7222,812 @@
         <p><strong>Instructions:</strong> Preheat oven to 350°. Cream butter, brown sugar, and eggs. Sift dry ingredients, add to creamed mixture, and nuts. Mix well. Drop by spoonful onto lightly greased cookie sheet. Bake for 10-12 minutes or until edges are golden brown.</p>
     </div>
 </div>
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Oatmeal Chocolate Chunk Cookies - <span class="author">Shirley Taylor</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. butter, softened</li>
+            <li>1 c. firmly packed brown sugar</li>
+            <li>½ c. granulated sugar</li>
+            <li>2 large eggs</li>
+            <li>2 tsp. vanilla</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. flour</li>
+            <li>1 tsp. baking soda</li>
+            <li>1 tsp. salt</li>
+            <li>3 c. uncooked regular oats</li>
+            <li>1 11.5 ounce pkg. semi-sweet mega morsels</li>
+            <li>1 c. chopped toasted pecans</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Preheat oven to 350°. Beat butter and sugars at medium speed until creamy. Add eggs and vanilla. Beat well. Lightly spoon flour into measuring cups and level. Combine flour, baking soda, and salt in a bowl stirring well. Add oats; stir well. Add to butter mixture; stir until well blended. Gently stir in morsels and pecans. Drop by rounded tablespoonfuls 2 inches apart onto baking sheets lined with parchment paper. Bake at 350° for 10 minutes or until brown around the edges. Cool 2 to 3 minutes than place on a wire rack.</p>
+    </div>
+</div>
 
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Oatmeal Scotches - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1¼ c. all purpose flour</li>
+            <li>1 tsp. baking soda</li>
+            <li>½ tsp. ground cinnamon</li>
+            <li>½ tsp. salt</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. (2 sticks) butter or margarine, softened</li>
+            <li>¾ c. granulated sugar</li>
+            <li>¾ c. packed brown sugar</li>
+            <li>2 lg. eggs</li>
+            <li>1 tsp. vanilla extract or grated peel of 1 orange</li>
+            <li>3 c. quick or old-fashioned oats</li>
+            <li>1 11 oz. pkg Nestle Toll-House Butterscotch Flavored Morsels</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Preheat oven to 375°. Combine flour, baking soda, cinnamon and salt in small bowl. Beat butter, granulated sugar, brown sugar, eggs and vanilla extract in large mixer bowl. Gradually beat in flour mixture. Stir in oats and morsels. Drop by rounded tablespoon onto ungreased baking sheets. Bake 7 to 8 minutes for chewy cookies; 9 to 10 minutes for crisp cookies. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely. Pan Cookie Variation: Grease 15 x 10 inch jelly-roll pan. Prepare dough into prepared pan. Bake for 18 to 22 minutes or until light brown. Cool completely. Cut into bars.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Mom's Oatmeal Cookies (Rosma) - <span class="author">Chloe Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. raisins</li>
+            <li>Water</li>
+            <li>9 T. raisin liquid</li>
+            <li>1 tsp. baking soda</li>
+            <li>1 tsp. vanilla</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. quick oats</li>
+            <li>1 c. shortening</li>
+            <li>1 c. sugar</li>
+            <li>2 c. flour</li>
+            <li>1 tsp. cinnamon</li>
+            <li>2 eggs</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cover raisins with water and cook until tender; let cool. Save liquid. Cream sugar and shortening. Stir in other ingredients and add 9 T. raisin liquid. Mix and let set in refrigerator about 15 minutes. Drop by tsp. onto greased cookie sheet. Bake about 10-12 minutes at 350°.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Oatmeal-Toffee Cookies - <span class="author">Shirley Taylor</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. butter or margarine, softened</li>
+            <li>½ c. firmly packed brown sugar</li>
+            <li>2 large eggs</li>
+            <li>1 tsp. vanilla</li>
+            <li>1½ c. uncooked regular oats</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. flour</li>
+            <li>½ tsp. baking soda</li>
+            <li>¼ tsp. salt</li>
+            <li>½ c. chopped pecans</li>
+            <li>1 pkg. 10 oz. almond toffee bits</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Beat butter at medium speed 2 to 3 minutes or until light and fluffy. Add eggs and vanilla, beating until blended. Combine oats and next 3 ingredients. Add to butter mixture, beating just until blended. Stir in chopped pecans and toffee bits. Drop by tablespoonfuls onto lightly greased baking sheets. Bake at 375° for 10 minutes. Cool on wire racks. Use Hershey's Heath Bits O'Brickle Almond Toffee Bits.</p>
+    </div>
+</div>
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Peanut Butter Blossoms - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>48 Hershey's Kisses Milk Chocolate</li>
+            <li>½ c. shortening or oleo</li>
+            <li>¾ c. Reese's creamy peanut butter</li>
+            <li>⅓ c. granulated sugar</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>⅓ c. packed light brown sugar</li>
+            <li>1 egg</li>
+            <li>2 T. milk</li>
+            <li>1 tsp. vanilla extract</li>
+            <li>1½ c. all-purpose flour</li>
+            <li>1 tsp. baking soda</li>
+            <li>½ tsp. salt</li>
+            <li>granulated sugar</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Preheat oven to 375°. Remove wrappers from chocolates. Beat shortening (or oleo) and peanut butter in large bowl. Add ⅓ cup granulated and brown sugars; beat until fluffy. Add egg, milk and vanilla; beat well. Stir together flour, baking soda and salt; gradually beat into mixture. Shape dough into 1-inch balls. Roll in sugar; place on ungreased cookie sheet. Bake 8 to 10 minutes or until lightly browned. Immediately press a Kisses Chocolate into center of each cookie. Remove from cookie sheet to wire rack. Cool completely. Makes about 4 dozen cookies.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Pecan Tassies - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients (Crust):</strong><ul>
+            <li>1 (3-oz.) pkg. cream cheese (softened)</li>
+            <li>½ c. butter (softened)</li>
+            <li>1 c. flour</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients (Filling):</strong><ul>
+            <li>1 egg</li>
+            <li>¾ c. brown sugar</li>
+            <li>1 T. butter</li>
+            <li>pinch salt</li>
+            <li>1 tsp. vanilla</li>
+            <li>⅔ c. pecan pieces</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix together. Chill 1 hour. Shape in 1-inch balls. Press into mini muffin pans. Mix filling ingredients together. Fill muffin pans. Bake for 25 minutes in preheated 325° oven. Makes 24.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Peanut Butter Cookies - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. oleo</li>
+            <li>1 c. white sugar</li>
+            <li>1 c. brown sugar</li>
+            <li>1 c. peanut butter</li>
+            <li>1 tsp. baking soda</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. baking powder</li>
+            <li>2 tsp. vanilla</li>
+            <li>2 eggs</li>
+            <li>3 c. flour</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Preheat oven 375°. Mix oleo, sugars, and eggs well. Add peanut butter, vanilla, and flour. Make into walnut-sized baking soda, baking powder, vanilla, and flour. Make into walnut-sized balls. Flatten with fork (cross-cross). Bake at 375° for 8 minutes or until golden brown.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Pinwheel Refrigerator Cookies - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. raisins</li>
+            <li>½ lb. chopped dates</li>
+            <li>½ c. sugar</li>
+            <li>½ c. water</li>
+            <li>1 c. chopped nuts</li>
+            <li>1 c. lard</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. white sugar</li>
+            <li>1 c. brown sugar</li>
+            <li>3 eggs</li>
+            <li>1 tsp. vanilla</li>
+            <li>4 c. flour</li>
+            <li>1 tsp. baking soda</li>
+            <li>½ tsp. salt</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cook raisins, dates, ½ c. sugar and water until thick-add chopped nuts.Cool. Blend lard, sugar and eggs. Add vanilla and sifted dry ingredients.Roll dough ½" thick and spread with cooled filling. Roll up like a jelly roll and store in refrigerator overnight. Slice about ¼" thick and place on greased cookie sheet. Bake 375° for 8-10 minutes.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Peanut Butter & Ritz Crackers - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 box Ritz crackers</li>
+            <li>Peanut butter to fill crackers</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>Milk chocolate melted with a little paraffin</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Put peanut butter between 2 crackers. Dip in chocolate mixture. Put on waxed paper to dry. also use chocolate almond bark.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Potato Chip Cookies - <span class="author">Donna Wilson</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 lb. butter</li>
+            <li>2 tsp. vanilla</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>3 c. flour</li>
+            <li>1½ c. crushed potato chips</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Beat butter until light and fluffy. Add sugar and beat well. Mix in vanilla and add flour gradually. Add crushed potato chips and mix by hand until combined. Drop from tsp. onto greased cookie sheet. Bake 350° for 10 minutes or until brown around edges-do not overbake. Sprinkle with powdered sugar. These keep well in tight covered container and will have more flavor second or third day.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Texas Lizzies (Little Fruit Cakes) - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>3 c. walnuts (coarsely chopped)</li>
+            <li>3 c. pecans (coarsely chopped)</li>
+            <li>1 (15-oz.) pkg. golden raisins</li>
+            <li>8 oz. red candied or glace cherries (halved)</li>
+            <li>8 oz. green candied or glace cherries (halved)</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. butter (softened)</li>
+            <li>1 lb. brown sugar</li>
+            <li>3 c. flour</li>
+            <li>1 tsp. baking soda</li>
+            <li>1 tsp. cinnamon</li>
+            <li>1 tsp. nutmeg</li>
+            <li>4 eggs</li>
+            <li>½ c. bourbon</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Preheat oven to 350°. Line baking sheet with parchment paper. Combine walnuts, pecans, light and dark raisins, red and green cherries; set aside. In bowl, beat butter and brown sugar until well combined. Beat eggs 1 at a time into butter mixture. In another bowl, combine flour, baking soda, cinnamon, and nutmeg; set aside. Beat in flour mixture alternately with bourbon into butter mixture. Stir in nuts, raisins and cherries. Drop by tablespoonfuls 2 inches apart on baking sheet. Bake 10 minutes. Cool 1 minute. Remove to pan. Makes 10 dozen cookies.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Pumpkin Cookies - <span class="author">Chloe Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. butter or shortening</li>
+            <li>1 c. sugar</li>
+            <li>1 egg</li>
+            <li>1¾ c. all purpose flour</li>
+            <li>½ tsp. salt</li>
+            <li>1 tsp. cinnamon</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ tsp. ground cloves</li>
+            <li>½ tsp. nutmeg</li>
+            <li>1 c. pumpkin (cooked and canned)</li>
+            <li>1 c. All-Bran (chopped)</li>
+            <li>½ c. nuts (chopped)</li>
+            <li>½ c. seedless raisins</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cream butter and sugar. Add egg and mix well. Sift together flour, salt, cinnamon, cloves, and nutmeg; add alternately with pumpkin to creamed mixture. Stir in remaining ingredients. Blend well. Drop by teaspoonfuls onto greased baking sheet. Bake at 375° for 15 minutes. Yield 4 dozen 1½ inch cookies.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Snickerdoodles - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. margarine (softened)</li>
+            <li>1½ c. sugar</li>
+            <li>2 eggs</li>
+            <li>2 ¾ c. sifted flour</li>
+            <li>2 tsp. cream of tartar</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. baking soda</li>
+            <li>½ tsp. salt</li>
+            <li>2 T. sugar</li>
+            <li>2 tsp. cinnamon</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cream sugar and margarine. Add eggs. Sift together flour, cream of tartar, baking soda and salt. Add to sugar mixture Refrigerate dough. Shape 2" apart on ungreased baking sheet. Bake until lightly browned but still soft. Temp: 350° about 8 to 10 minutes. Makes 5 dozen 2" cookies.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Black Walnut Cookies - <span class="author">Jill Best</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. brown sugar</li>
+            <li>1 stick oleo</li>
+            <li>2 eggs</li>
+            <li>3½ c. flour</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. soda</li>
+            <li>1 tsp. salt</li>
+            <li>1 tsp. cream of tartar</li>
+            <li>1 tsp. vanilla</li>
+            <li>1 c. chopped black walnuts</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cream butter and brown sugar. Add eggs and mix well. Sift and add flour, soda, salt, and cream of tartar. Mix well. Add vanilla. Stir in black walnuts. Shape dough into rolls and place in refrigerator. Chill overnight. Slice and bake at 350° for 8 to 12 minutes, or until edges are golden brown. Freezes well.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Yummy Bars - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1⅓ c. flour</li>
+            <li>1⅓ c. quick cooking oats</li>
+            <li>1 c. brown sugar</li>
+            <li>½ tsp. baking soda</li>
+            <li>¼ tsp. salt</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. margarine, melted</li>
+            <li>1 (12-oz.) pkg. chocolate chips</li>
+            <li>1 (12-oz.) jar caramel topping</li>
+            <li>3 T. flour</li>
+            <li>chopped pecans, optional</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> In large bowl combine flour, oats, brown sugar, soda, salt & melted margarine. Blend well to form crumbly mixture. Press half of mixture into bottom of 9x13 pan. Bake 10 min. @ 350°. Remove & sprinkle with chocolate chips & nuts, if desired. Combine caramel topping & flour. Pour evenly over chips. Sprinkle remaining oat mixture over top & bake 20-25 min. @ 350°. Cool & cut.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Zucchini Cookies - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. sugar</li>
+            <li>½ c. margarine</li>
+            <li>1 egg</li>
+            <li>2 c. flour</li>
+            <li>1 tsp. baking soda</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 tsp. ground cinnamon</li>
+            <li>½ tsp. ground cloves</li>
+            <li>½ tsp. salt</li>
+            <li>1 c. grated zucchini</li>
+            <li>1 c. raisins & nuts (each)</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cream sugar and margarine. Add egg and stir in rest of ingredients. Drop by tsp. onto baking sheet. Bake 400° about 10 minutes.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Oven Apple Butter - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>10 c. apples (cooked and pureed)</li>
+            <li>7 c. sugar</li>
+            <li>1 tsp. cinnamon</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>¼ tsp. cloves</li>
+            <li>1 tsp. allspice</li>
+            <li>½ tsp. nutmeg</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Peel, slice, and cook apples in small amount of water until tender. Run through blender. Add sugar and spices. Put in 300° oven. Cook until desired thickness, stirring often. Put into hot sterilized jars and seal. Waterbath 15 minutes.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Bacon (Grandpa Bob Blyth) - <span class="author">Grandpa Bob's Breakfast</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. lard</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 lb. bacon</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Put lard in iron skillet and heat until melted. Add bacon and cook until brown. Float your eggs in grease when bacon is done. Remove eggs then add 2 Heaping T flour and 1 cup milk. Boil until thick to make your gravy. Serve with 89 cent Aldi's biscuits.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">All Purpose Seasoning (David Blyth) - <span class="author">David Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 1-lb. box Salt</li>
+            <li>1 (4-oz.) bottle Chili Powder</li>
+            <li>1 (3-oz.) can Coarse Black Pepper</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 (3-oz.) can Fine Black Pepper</li>
+            <li>1 (2-oz.) bottle Paprika</li>
+            <li>1 (2-oz.) bottle Garlic Powder</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix ingredients and use as rub or seasoning.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Caramel Apple Dip - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 (8-oz.) pkg. cream cheese (softened)</li>
+            <li>1 c. brown sugar (packed)</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. vanilla</li>
+            <li>¼ c. nuts (chopped)</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Beat cream cheese, brown sugar and vanilla together until smooth. Serve with apple slices. Top with nuts.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Cucumber Dill Sauce - <span class="author">Sherry Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>¾ c. plain yogurt</li>
+            <li>½ c. finely diced cucumber, peeled and seeded</li>
+            <li>½ c. miracle whip</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 T. minced onion</li>
+            <li>¼ tsp. dillweed</li>
+            <li>1 tsp. parsley</li>
+            <li>½ tsp. salt</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix well-Chill 30 min before serving. Serve on gyros or salmon loaf.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Cooked Homemade Salad Dressing - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. sugar</li>
+            <li>1 tsp. salt</li>
+            <li>1 T. flour (heaping tbsp.)</li>
+            <li>1 egg</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>¾ c. vinegar</li>
+            <li>¼ c. water</li>
+            <li>dash pepper</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix dry ingredients- add egg and mix. Add water and vinegar stirring in a small amount at a time until smooth. Bring to boil stirring constantly. Let thicken and add 1 Tbsp. of butter- let cool.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Dressing for Spinach Salad - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. salad oil</li>
+            <li>½ tsp. dry mustard</li>
+            <li>½ tsp. onion powder</li>
+            <li>2 pkg. sweetener (Equal or Splenda)</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ tsp. salt</li>
+            <li>¼ c. cider vinegar</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Combine sweetener, dry mustard salt & onion powder in blender. Mix well. Slowly pour in vinegar while blending.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Roquefort Dressing - <span class="author">Chloe Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>8 oz. sour cream</li>
+            <li>1 c. mayonnaise</li>
+            <li>1 T. lemon juice</li>
+            <li>1 tsp. soy sauce</li>
+            <li>¼ tsp. Worcestershire sauce</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. onion (grated)</li>
+            <li>3-4 oz. crumbled blue cheese</li>
+            <li>1 T. parsley flakes</li>
+            <li>½ c. milk</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix all ingredients well and chill.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Hot Fudge Sauce - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 (12-oz.) can evaporated milk</li>
+            <li>1 c. sugar</li>
+            <li>3 squares unsweetened chocolate</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. vanilla</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Combine evaporated milk, sugar, and unsweetened chocolate in saucepan. Bring to a boil over medium heat. Cook for 5 minutes stirring constantly. Remove from heat; add vanilla. Beat with rotary beater for 1 minute. Serve hot or cold on ice cream, cake, or cream puffs. Yield: 8-10 servings.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Hot Sweet Mustard - <span class="author">Rosma Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>¼ c. dry mustard</li>
+            <li>½ c. cider vinegar</li>
+            <li>2 eggs</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>¾ c. sugar</li>
+            <li>1 T. honey</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Day before: Put mustard in 1 c. measuring cup. Fill to 1 c. line with vinegar. Let set overnight in refrigerator. Next morning, beat eggs, add sugar and honey to mustard mixture and cook over low heat until thick, stirring constantly. Refrigerate. Serve on sandwiches.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Jalapeño Jelly - <span class="author">David Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>¾ pound whole jalapeño peppers</li>
+            <li>6 c. sugar</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. cider vinegar (5% acidity)</li>
+            <li>2-3 ounce pouches liquid pectin</li>
+            <li>10 drops green food coloring</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Wash and halve jalapeño peppers lengthwise. Remove stems and half of seeds. Blend peppers in a food processor or blender and add half of vinegar until smooth. In a 6 top qt. saucepan, combine sugar, the vinegar until remaining vinegar. Bring mixture to a full rolling boil and boil for a minute stirring constantly. Boil hard for ten minutes, remove from heat and stir in liquid pectin. Return to a full rolling boil and boil for a minute stirring constantly. Remove from heat and stir in food coloring. Skim foam. Immediately fill sterilized half-pint jars, leaving ¼ inch head space. Wipe tops and thread clean and put hot lids on jar and screw down. Wipe jar tops in boiling water canner for five minutes.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Eggs in the Oven - <span class="author">David Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. grated American cheese</li>
+            <li>2 tsp. butter</li>
+            <li>½ c. Half & Half</li>
+            <li>6 eggs (beaten)</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. yellow mustard</li>
+            <li>½ tsp. salt</li>
+            <li>½ tsp. pepper</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Grease an 8 x 8 baking dish with butter. Spread grated cheese over bottom of dish and dot with butter. In a medium sized bowl, mix Half & Half, mustard, salt & pepper. Stir beaten eggs into mixture and pour into baking dish. Spread grated cheese over mixture. Bake at 325 for 30 minutes.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Dumplings - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. flour</li>
+            <li>½ c. milk</li>
+            <li>pinch salt</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 pinch baking powder</li>
+            <li>1 T. shortening</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix all together and roll out- cut into squares and drop into hot boiling broth. Cook about 10-15 minutes or until dumplings are done.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Basic BBQ Rub - <span class="author">Sherry Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. salt</li>
+            <li>2 T. hickory salt</li>
+            <li>1 T. each, brown sugar, white sugar</li>
+            <li>1 T. each, black pepper, white pepper, cayenne pepper</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. each, chili powder, Mike Blyth garlic powder, paprika, onion, peel, lime peel</li>
+            <li>1 T. Accent</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Stir all together, save a large spice shaker and fill. Use on all meats, great on pork.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Crock Pot Apple Butter - <span class="author">Sherry Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>5-6 qts. Jonathan apples, cored and peeled if prefer</li>
+            <li>1 qt. water</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>6 c. sugar</li>
+            <li>2 tsp. each, cinnamon and cloves</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Place water and apples in crock pot, as mixture cooks down turn to high. When bubbles, turn to low. When apples are cooked add; sugar and spices. Cook 24-48 hours on low, stir occasionally. Jar with paraffin or freeze.</p>
+    </div>
+</div>
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Kool-Aid Jelly - <span class="author">Rosma Blyth</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 pkg. Kool-Aid (any flavor you like)</li>
+            <li>1 box pectin</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>3 c. sugar</li>
+            <li>3 c. water</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix Kool-Aid, pectin and water-Bring to rolling boil. Add sugar and bring again to rolling boil. Boil for 1 minute. Pour into jars and seal.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Pear Honey - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>8 lg. cups ground pears</li>
+            <li>8 scant cups sugar</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. crushed pineapple</li>
+            <li>red food coloring</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Combine pears and sugar until clear and thickened. Add pineapple and continue cooking until desired thickness. Tint with a few drops of red food coloring. Pour into hot sterilized jars and seal. Waterbath 15-20 minutes.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Best Ever Pie Crust - <span class="author">Chloe Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>4 c. flour</li>
+            <li>1¾ c. shortening</li>
+            <li>2 T. salt</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 T. sugar</li>
+            <li>1 egg (beaten)</li>
+            <li>1 T. vinegar</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix flour, shortening, salt, and sugar with blender. Add beaten egg, water, and vinegar and mix well.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Basic Cheese Sauce - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>3 T. oleo</li>
+            <li>3 T. flour</li>
+            <li>1 c. milk</li>
+            <li>½ tsp. salt</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. shredded cheddar cheese (or Velveeta for creamier sauce)</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> In saucepan, melt oleo and stir in flour. Cook for a minute. Add milk and cook until thickened. Add salt. Stir in cheese until melted. Add more milk if necessary. Good over vegetables or baked potato.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Mexican Hot Sauce - <span class="author">Chloe Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 c. peeled, chopped tomatoes</li>
+            <li>2 c. drained</li>
+            <li>¼ c. chopped onion</li>
+            <li>¼ c. chopped green pepper</li>
+            <li>2 T. chopped, seeded green chilies</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 clove garlic, minced</li>
+            <li>½ tsp. salt</li>
+            <li>½ tsp. chili powder</li>
+            <li>¼ tsp. ground cumin</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> In medium saucepan, combine all ingredients & simmer, uncovered for 30 min. Serve hot or cold.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Microwave Cinnamon Sauce - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. sugar</li>
+            <li>1 T. cornstarch</li>
+            <li>1 tsp. cinnamon</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. water (room temperature)</li>
+            <li>2 T. margarine</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Stir together sugar, cornstarch, cinnamon & water in 1 qt. microwave safe bowl until smooth. Cook 2 min. longer. Stir in margarine until well blended. Serve over bread pudding.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Nutmeg Sauce - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. flour</li>
+            <li>¾ c. sugar</li>
+            <li>1½ c. hot water</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>3 T. oleo</li>
+            <li>½ tsp. nutmeg</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> In saucepan, combine flour, sugar, hot water, and oleo; heat to boil. Continue to boil until thickened. Add nutmeg. Cool to warm and serve.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Spaghetti Sauce - <span class="author">Sharon McMullen</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 gal. crushed tomatoes</li>
+            <li>1 gal. tomato sauce</li>
+            <li>1 gal. diced tomatoes</li>
+            <li>1 lg. can tomato paste</li>
+            <li>1 lg. can water measured from tomato paste can</li>
+            <li>2-4 onions (diced)</li>
+            <li>2 green peppers (diced)</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. oregano</li>
+            <li>2 T. sweet basil</li>
+            <li>1 T. thyme</li>
+            <li>1 T. pepper</li>
+            <li>6 T. sugar</li>
+            <li>2 T. sage</li>
+            <li>salt to taste</li>
+            <li>olive oil</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> In big roaster pan, sauté onions and peppers in olive oil. Add the rest of ingredients. Bring to boil over medium heat. Simmer several hours until thickened. Freeze in quart size containers.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Spanish Sauce - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. chopped onion</li>
+            <li>½ c. chopped celery</li>
+            <li>½ c. chopped green pepper</li>
+            <li>1 T. parsley</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. cooking oil</li>
+            <li>2½ c. chopped tomatoes</li>
+            <li>½ c. sugar</li>
+            <li>1 T. flour</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Cook onion, celery, green peppers, parsley and oil until tender. Add tomatoes, sugar and flour. Cook until thickened. Serve over stuffed green peppers.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Easy Taco Sauce - <span class="author">Chloe Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 (16-oz.) can whole, peeled tomatoes</li>
+            <li>2-4 garlic cloves, diced small</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. sugar</li>
+            <li>2 T. vinegar</li>
+            <li>1 T. red pepper</li>
+            <li>dash salt</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Blend all ingredients until smooth. Simmer for 20 min. & seal in jars while hot or cool & freeze, leaving ½" space at top of jars.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Tartar Sauce - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 c. mayonnaise</li>
+            <li>1 T. dijon mustard</li>
+            <li>2 T. lemon juice</li>
+            <li>1 T. onion, finely diced</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 medium dill pickles, diced</li>
+            <li>½ tsp. worcestershire sauce</li>
+            <li>salt & pepper to taste</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Mix all ingredients in small bowl & chill.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Cinnamon & Ginger Treats - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>4-5 c. mixed nuts or your choice</li>
+            <li>1 tsp. cinnamon</li>
+            <li>1 egg white</li>
+            <li>½ tsp. ground ginger</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 T. orange juice</li>
+            <li>¼ tsp. allspice</li>
+            <li>1 c. sugar</li>
+            <li>¼ tsp. salt</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Beat egg white & orange juice in large mixing bowl; set aside. Beat egg white & orange juice in large mixing bowl; set aside. Beat egg white & orange juice in large mixing bowl; set aside. Place nuts together until frothy, mix in remaining ingredients. Pour over nuts; mix thoroughly. Spread coated nuts onto an aluminum foil lined baking sheet; bake 45 min. @ 275°. Stirring every 15 min. Cook & store in airtight container (foil is a necessity! hardened syrup would be really difficult to clean up).</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Cinnamon-Raisin Overnight French Toast - <span class="author">Shirley Taylor</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 loaf sliced cinnamon raisin bread</li>
+            <li>3 c. whole or 2% milk</li>
+            <li>½ tsp. salt</li>
+            <li>½ tsp. cinnamon</li>
+            <li>10 lg. eggs</li>
+            <li>1 T. margarine or butter</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 T. sugar</li>
+            <li>5
     <script>
         // Toggle recipe content visibility
         function toggleRecipe(element) {
