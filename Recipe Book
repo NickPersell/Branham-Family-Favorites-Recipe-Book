@@ -21,8 +21,8 @@
             top: 10px;
             background: #fff;
             padding: 10px 0;
-            z-index: 2; /* Increased to ensure it stays above recipes */
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for separation */
+            z-index: 2;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         #searchInput {
             width: 100%;
@@ -31,13 +31,13 @@
             border: 1px solid #ccc;
             border-radius: 5px;
             box-sizing: border-box;
-            margin-bottom: 10px; /* Space below search input */
+            margin-bottom: 10px;
         }
         .category-buttons {
-            margin: 0 0 10px 0; /* Space below category buttons */
+            margin: 0 0 10px 0;
             text-align: center;
-            overflow-x: auto; /* Allows horizontal scrolling if buttons overflow */
-            white-space: nowrap; /* Prevents button text from wrapping */
+            overflow-x: auto;
+            white-space: nowrap;
         }
         .category-buttons button {
             padding: 8px 16px;
@@ -47,7 +47,7 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            white-space: nowrap; /* Ensures long labels don't wrap */
+            white-space: nowrap;
         }
         .category-buttons button:hover {
             background-color: #45a049;
@@ -135,7 +135,6 @@
 <body>
     <h1>Branham Family Favorites</h1>
     <div class="search-container">
-        <!-- Category Buttons inside search-container -->
         <div class="category-buttons" id="categoryButtons"></div>
         <input type="text" id="searchInput" placeholder="Search recipes..." onkeyup="searchRecipes()">
         <div class="button-container">
@@ -144,9 +143,7 @@
         </div>
     </div>
     <!-- Beginning of recipes -->
-    <div id="recipeList">
-        <!-- Add your recipes here, e.g.: -->
-        <div id="recipeList">
+   <div id="recipeList">
         <div class="recipe">
             <h2 onclick="toggleRecipe(this)">Dried Beef Dip - <span class="author">Vicki Jiovenale</span></h2>
             <div class="recipe-content">
@@ -8152,17 +8149,13 @@
             
             for (let i = 0; i < recipes.length; i++) {
                 const recipeText = recipes[i].textContent.toLowerCase();
-                if (input === '') {
-                    recipes[i].classList.remove('hidden');
-                } else if (recipeText.includes(input)) {
-                    recipes[i].classList.remove('hidden');
-                } else {
+                recipes[i].classList.remove('hidden'); // Reset hidden state
+                if (input !== '' && !recipeText.includes(input)) {
                     recipes[i].classList.add('hidden');
                 }
             }
-            // After filtering, apply category filter
-            applyCategoryFilter();
-            updateExpandCollapse();
+            updateExpandCollapse(); // Update expand/collapse state
+            // Removed applyCategoryFilter() to prevent overriding search results
         }
 
         // Expand all visible recipes
@@ -8196,8 +8189,8 @@
             { min: 157, max: 249, label: "Main Dishes" },
             { min: 250, max: 282, label: "Breads & Rolls" },
             { min: 283, max: 396, label: "Desserts" },
-            { min: 397, max: 450, label: "Cookies & Candy" },
-            { min: 451, max: 500, label: "This and That" }
+            { min: 397, max: 451, label: "Cookies & Candy" },
+            { min: 452, max: 500, label: "This and That" }
         ];
 
         // Create category buttons
@@ -8255,15 +8248,15 @@
                     const entry = parseInt(recipe.getAttribute('data-entry'));
                     return entry >= cat.min && entry <= cat.max;
                 }) && recipes.length > 0;
-            }) || { min: 1, max: 500 }; // Updated to match max range of 500
+            }) || { min: 1, max: 500 };
             filterByCategory(activeCategory.min, activeCategory.max);
         }
 
         // Initial setup
         window.onload = function() {
-            assignEntryNumbers(); // Assign entry numbers dynamically
+            assignEntryNumbers();
             createCategoryButtons();
-            searchRecipes(); // Apply initial search state
+            searchRecipes();
         };
     </script>
 </body>
