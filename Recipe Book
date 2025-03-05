@@ -8027,7 +8027,91 @@
         </ul></div>
         <div class="ingredients"><strong>Ingredients:</strong><ul>
             <li>2 T. sugar</li>
-            <li>5
+            <li>5 Golden delicious apples, peeled, cored and sliced</li>
+            <li>¼ c. packed light brown sugar</li>
+            <li>2 T. maple juice or butter</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Prepare apple filling: In a skillet, melt the 2 tbsp margarine over medium heat. Add apples, and sugar, and cook 2 minutes or until deep golden, stirring occasionally. Stir in apple juice and cook 1 minute more. Prepare French Toast: Grease 9 x 13 baking dish. Arrange ½ of bread slices, overlapping slightly. In a med. bowl, whisk together milk, salt, cinnamon and eggs until well mixed. Pour ½ of egg mixture over the bread in casserole. Pour apple filling over bread. Arrange remaining bread slices over apple layer. Pour remaining egg mixture over bread, pressing bread down with spatula so it absorbs egg mixture. Dot bread with the tablespoon of butter. Sprinkle with sugar. Cover and refrigerate overnight. To bake, preheat oven to 325°. Uncover casserole and bake 50 to 55 min. or until knife inserted comes out clean. Serve with warm syrup.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Overnight French Orange Toast - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>8 slices (¾" thick) French bread</li>
+            <li>4 eggs</li>
+            <li>1 c. milk</li>
+            <li>½ c. plus 2 T orange juice, divided</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ tsp. vanilla</li>
+            <li>½ tsp. salt</li>
+            <li>2 T. margarine</li>
+            <li>confectioners sugar</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Place bread in a 9x13 baking pan. Combine eggs, milk, 2 T orange juice, vanilla & salt. Beat well, then pour over bread. Turn slices to coat evenly; cover & refrigerate overnight. Melt margarine in large skillet or griddle. Cook 4 min. each side or until browned. Sprinkle with confectioners sugar & serve with orange sauce. Orange Sauce: Combine 1 c. brown sugar & remaining ½ c. orange juice & 2 tsp. grated orange rind in small pan, stirring well. Bring to a boil, reduce heat & simmer until thickened, about 5 min., stirring frequently.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Sugared Walnuts - <span class="author">Shirley Taylor</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 egg white</li>
+            <li>5 c. walnuts</li>
+            <li>1 c. sugar</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>1 tsp. cinnamon</li>
+            <li>¼ tsp. nutmeg</li>
+            <li>¼ tsp. allspice</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Beat egg white with 1½ tsp. water. Add nuts to coat. Spread in other ingredients and ½ tsp. salt. Sprinkle over nuts to coat. Spread in baking pan or cookie sheet pan. Bake 20 min. at 325°. Spread on wax paper. Break up after they cool. Can store in a tight container several months.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Upside-Down French Toast - <span class="author">Vicki Jiovenale</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>½ c. melted butter</li>
+            <li>1 c. brown sugar</li>
+            <li>1 (20-oz.) can crushed pineapple, drained</li>
+            <li>raisin-dried cranberries, optional</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>5 eggs</li>
+            <li>1½ c. milk</li>
+            <li>2 tsp. vanilla</li>
+            <li>12 pc. bread</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Spread first 3-4 ingredients in 9x13 baking dish. Mix eggs, milk & vanilla & pour over bread into batter. Place on top of pineapple mixture. Bake 45 min. @ 350°.</p>
+    </div>
+</div>
+
+<div class="recipe">
+    <h2 onclick="toggleRecipe(this)">Zucchini Relish - <span class="author">Bev Branham</span></h2>
+    <div class="recipe-content">
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>10 c. chopped or grated zucchini</li>
+            <li>4 c. green pepper (chopped)</li>
+            <li>2 onions (chopped)</li>
+            <li>5 T. salt</li>
+            <li>2½ c. vinegar</li>
+            <li>6 c. sugar</li>
+        </ul></div>
+        <div class="ingredients"><strong>Ingredients:</strong><ul>
+            <li>2 tsp. celery seed</li>
+            <li>2 tsp. black pepper</li>
+            <li>2 T. flour (heaping)</li>
+            <li>1 tsp. dry mustard</li>
+            <li>2 tsp. turmeric</li>
+            <li>2 tsp. nutmeg</li>
+        </ul></div>
+        <p><strong>Instructions:</strong> Combine zucchini, green pepper, onions and salt. Let set in refrigerator overnight. Drain off 1 cup of liquid and throw away. Mix rest of ingredients into zucchini mixture. Cook on simmer about 30 minutes. Put into hot jars and seal. This makes 7 pints.</p>
+    </div>
+</div>
     <script>
         // Toggle recipe content visibility
         function toggleRecipe(element) {
