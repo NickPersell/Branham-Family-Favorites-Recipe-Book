@@ -21,7 +21,8 @@
             top: 10px;
             background: #fff;
             padding: 10px 0;
-            z-index: 1;
+            z-index: 2; /* Increased to ensure it stays above recipes */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for separation */
         }
         #searchInput {
             width: 100%;
@@ -30,6 +31,26 @@
             border: 1px solid #ccc;
             border-radius: 5px;
             box-sizing: border-box;
+            margin-bottom: 10px; /* Space below search input */
+        }
+        .category-buttons {
+            margin: 0 0 10px 0; /* Space below category buttons */
+            text-align: center;
+            overflow-x: auto; /* Allows horizontal scrolling if buttons overflow */
+            white-space: nowrap; /* Prevents button text from wrapping */
+        }
+        .category-buttons button {
+            padding: 8px 16px;
+            margin: 0 5px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            white-space: nowrap; /* Ensures long labels don't wrap */
+        }
+        .category-buttons button:hover {
+            background-color: #45a049;
         }
         .button-container {
             margin: 10px 0;
@@ -114,14 +135,18 @@
 <body>
     <h1>Branham Family Favorites</h1>
     <div class="search-container">
+        <!-- Category Buttons inside search-container -->
+        <div class="category-buttons" id="categoryButtons"></div>
         <input type="text" id="searchInput" placeholder="Search recipes..." onkeyup="searchRecipes()">
         <div class="button-container">
             <button onclick="expandAll()">Expand All</button>
             <button onclick="collapseAll()">Collapse All</button>
         </div>
     </div>
-
+    <!-- Beginning of recipes -->
     <div id="recipeList">
+        <!-- Add your recipes here, e.g.: -->
+        <div id="recipeList">
         <div class="recipe">
             <h2 onclick="toggleRecipe(this)">Dried Beef Dip - <span class="author">Vicki Jiovenale</span></h2>
             <div class="recipe-content">
@@ -8112,6 +8137,7 @@
         <p><strong>Instructions:</strong> Combine zucchini, green pepper, onions and salt. Let set in refrigerator overnight. Drain off 1 cup of liquid and throw away. Mix rest of ingredients into zucchini mixture. Cook on simmer about 30 minutes. Put into hot jars and seal. This makes 7 pints.</p>
     </div>
 </div>
+    <!-- End of recipes -->
     <script>
         // Toggle recipe content visibility
         function toggleRecipe(element) {
@@ -8134,7 +8160,8 @@
                     recipes[i].classList.add('hidden');
                 }
             }
-            // After filtering, ensure expand/collapse state respects visibility
+            // After filtering, apply category filter
+            applyCategoryFilter();
             updateExpandCollapse();
         }
 
@@ -8156,14 +8183,86 @@
             });
         }
 
-        // Update expand/collapse state after search or initial load
+        // Update expand/collapse state after search or category filter
         function updateExpandCollapse() {
-            // This ensures the buttons only affect currently visible recipes
-            // No additional action needed here as the functions handle visibility
+            // No additional action needed as functions handle visibility
         }
 
-        // Initial load
+        // Define category ranges
+        const categories = [
+            { min: 1, max: 37, label: "Appetizers & Beverages" },
+            { min: 38, max: 119, label: "Soups & Salads" },
+            { min: 120, max: 156, label: "Vegetables & Sides Dishes" },
+            { min: 157, max: 249, label: "Main Dishes" },
+            { min: 250, max: 282, label: "Breads & Rolls" },
+            { min: 283, max: 396, label: "Desserts" },
+            { min: 397, max: 450, label: "Cookies & Candy" },
+            { min: 451, max: 500, label: "This and That" }
+        ];
+
+        // Create category buttons
+        function createCategoryButtons() {
+            const categoryContainer = document.getElementById('categoryButtons');
+            categories.forEach(category => {
+                const button = document.createElement('button');
+                button.textContent = category.label;
+                button.addEventListener('click', () => filterByCategory(category.min, category.max));
+                categoryContainer.appendChild(button);
+            });
+            // Add a "Show All" button
+            const allButton = document.createElement('button');
+            allButton.textContent = "Show All";
+            allButton.addEventListener('click', () => showAllRecipes());
+            categoryContainer.appendChild(allButton);
+        }
+
+        // Assign entry numbers dynamically
+        function assignEntryNumbers() {
+            const recipes = document.getElementsByClassName('recipe');
+            for (let i = 0; i < recipes.length; i++) {
+                recipes[i].setAttribute('data-entry', i + 1); // Assign 1-based entry numbers
+            }
+        }
+
+        // Filter recipes by category range
+        function filterByCategory(min, max) {
+            const recipes = document.getElementsByClassName('recipe');
+            for (let i = 0; i < recipes.length; i++) {
+                const entry = parseInt(recipes[i].getAttribute('data-entry'));
+                if (entry >= min && entry <= max) {
+                    recipes[i].classList.remove('hidden');
+                } else {
+                    recipes[i].classList.add('hidden');
+                }
+            }
+            updateExpandCollapse();
+        }
+
+        // Show all recipes
+        function showAllRecipes() {
+            const recipes = document.getElementsByClassName('recipe');
+            for (let i = 0; i < recipes.length; i++) {
+                recipes[i].classList.remove('hidden');
+            }
+            updateExpandCollapse();
+        }
+
+        // Apply category filter after search to maintain consistency
+        function applyCategoryFilter() {
+            const activeCategory = categories.find(cat => {
+                const recipes = document.querySelectorAll(`.recipe:not(.hidden)`);
+                return Array.from(recipes).every(recipe => {
+                    const entry = parseInt(recipe.getAttribute('data-entry'));
+                    return entry >= cat.min && entry <= cat.max;
+                }) && recipes.length > 0;
+            }) || { min: 1, max: 500 }; // Updated to match max range of 500
+            filterByCategory(activeCategory.min, activeCategory.max);
+        }
+
+        // Initial setup
         window.onload = function() {
+            assignEntryNumbers(); // Assign entry numbers dynamically
+            createCategoryButtons();
             searchRecipes(); // Apply initial search state
         };
     </script>
